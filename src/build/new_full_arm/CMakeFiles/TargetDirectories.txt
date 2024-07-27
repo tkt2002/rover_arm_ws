@@ -1,0 +1,9 @@
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/uninstall.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/new_full_arm_uninstall.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/test.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/edit_cache.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/rebuild_cache.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/list_install_components.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/install.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/install/local.dir
+/home/thisum/my_ws/src/build/new_full_arm/CMakeFiles/install/strip.dir

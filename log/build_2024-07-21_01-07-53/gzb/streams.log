@@ -1,0 +1,46 @@
+[0.017s] Invoking command in '/home/thisum/my_ws/build/gzb': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/gzb -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/gzb
+[0.165s] -- The C compiler identification is GNU 11.4.0
+[0.238s] -- The CXX compiler identification is GNU 11.4.0
+[0.252s] -- Detecting C compiler ABI info
+[0.370s] -- Detecting C compiler ABI info - done
+[0.376s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.376s] -- Detecting C compile features
+[0.377s] -- Detecting C compile features - done
+[0.381s] -- Detecting CXX compiler ABI info
+[0.486s] -- Detecting CXX compiler ABI info - done
+[0.492s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.492s] -- Detecting CXX compile features
+[0.493s] -- Detecting CXX compile features - done
+[0.502s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.664s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.773s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.857s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.858s] -- Added test 'lint_cmake' to check CMake code style
+[0.859s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.861s] -- Added test 'xmllint' to check XML markup files
+[0.863s] -- Configuring done
+[0.868s] -- Generating done
+[0.870s] -- Build files have been written to: /home/thisum/my_ws/build/gzb
+[0.877s] Invoked command in '/home/thisum/my_ws/build/gzb' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/gzb -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/gzb
+[0.879s] Invoking command in '/home/thisum/my_ws/build/gzb': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/gzb -- -j6 -l6
+[0.933s] Invoked command in '/home/thisum/my_ws/build/gzb' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/gzb -- -j6 -l6
+[0.992s] Invoking command in '/home/thisum/my_ws/build/gzb': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/gzb
+[1.003s] -- Install configuration: ""
+[1.003s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/launch
+[1.003s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/launch/gazebo.launch.py
+[1.004s] -- Installing: /home/thisum/my_ws/install/gzb/share/ament_index/resource_index/package_run_dependencies/gzb
+[1.004s] -- Installing: /home/thisum/my_ws/install/gzb/share/ament_index/resource_index/parent_prefix_path/gzb
+[1.004s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/environment/ament_prefix_path.sh
+[1.005s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/environment/ament_prefix_path.dsv
+[1.005s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/environment/path.sh
+[1.005s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/environment/path.dsv
+[1.006s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/local_setup.bash
+[1.006s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/local_setup.sh
+[1.007s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/local_setup.zsh
+[1.007s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/local_setup.dsv
+[1.007s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/package.dsv
+[1.008s] -- Installing: /home/thisum/my_ws/install/gzb/share/ament_index/resource_index/packages/gzb
+[1.008s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/cmake/gzbConfig.cmake
+[1.008s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/cmake/gzbConfig-version.cmake
+[1.008s] -- Installing: /home/thisum/my_ws/install/gzb/share/gzb/package.xml
+[1.013s] Invoked command in '/home/thisum/my_ws/build/gzb' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/new_full_arm:/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/gzb

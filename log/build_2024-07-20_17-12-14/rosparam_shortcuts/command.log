@@ -1,0 +1,4 @@
+Invoking command in '/home/thisum/my_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/rosparam_shortcuts -- -j6 -l6
+Invoked command in '/home/thisum/my_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/rosparam_shortcuts -- -j6 -l6
+Invoking command in '/home/thisum/my_ws/build/rosparam_shortcuts': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/rosparam_shortcuts
+Invoked command in '/home/thisum/my_ws/build/rosparam_shortcuts' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/rosparam_shortcuts

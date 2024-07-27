@@ -1,0 +1,23 @@
+[0mMissing content of submodule pybind11: Use 'git clone --recurse-submodule' in future.
+Checking out content automatically[0m
+Submodule 'core/python/pybind11' (https://github.com/pybind/pybind11) registered for path 'pybind11'
+Cloning into '/home/thisum/my_ws/src/moveit_task_constructor/core/python/pybind11'...
+error: RPC failed; curl 56 GnuTLS recv error (-9): Error decoding the received TLS packet.
+error: 6488 bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+fatal: Fetched in submodule path 'pybind11', but it did not contain f4bc71f981d4eb2dd780215fd3c5a7420f1f03aa. Direct fetching of that commit failed.
+fatal: 
+[31mCMake Error at python/CMakeLists.txt:22 (add_subdirectory):
+  The source directory
+
+    /home/thisum/my_ws/src/moveit_task_constructor/core/python/pybind11
+
+  does not contain a CMakeLists.txt file.
+
+[0m
+[31mCMake Error at python/bindings/CMakeLists.txt:3 (pybind11_add_module):
+  Unknown CMake command "pybind11_add_module".
+
+[0m

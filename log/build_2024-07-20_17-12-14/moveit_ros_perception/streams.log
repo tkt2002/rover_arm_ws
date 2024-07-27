@@ -1,0 +1,95 @@
+[0.070s] Invoking command in '/home/thisum/my_ws/build/moveit_ros_perception': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_planning/lib:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/thisum/my_ws/build/moveit_ros_perception -- -j6 -l6
+[0.200s] [35m[1mConsolidate compiler generated dependencies of target moveit_lazy_free_space_updater[0m
+[0.200s] [35m[1mConsolidate compiler generated dependencies of target moveit_semantic_world[0m
+[0.211s] [35m[1mConsolidate compiler generated dependencies of target moveit_point_containment_filter[0m
+[0.219s] [35m[1mConsolidate compiler generated dependencies of target moveit_mesh_filter[0m
+[0.233s] [ 10%] Built target moveit_lazy_free_space_updater
+[0.254s] [ 25%] Built target moveit_semantic_world
+[0.254s] [ 30%] Built target moveit_point_containment_filter
+[0.275s] [ 60%] Built target moveit_mesh_filter
+[0.280s] [35m[1mConsolidate compiler generated dependencies of target moveit_pointcloud_octomap_updater_core[0m
+[0.321s] [35m[1mConsolidate compiler generated dependencies of target moveit_depth_image_octomap_updater_core[0m
+[0.328s] [ 70%] Built target moveit_pointcloud_octomap_updater_core
+[0.353s] [35m[1mConsolidate compiler generated dependencies of target moveit_pointcloud_octomap_updater[0m
+[0.365s] [ 80%] Built target moveit_depth_image_octomap_updater_core
+[0.393s] [ 90%] Built target moveit_pointcloud_octomap_updater
+[0.398s] [35m[1mConsolidate compiler generated dependencies of target moveit_depth_image_octomap_updater[0m
+[0.430s] [100%] Built target moveit_depth_image_octomap_updater
+[0.445s] Invoked command in '/home/thisum/my_ws/build/moveit_ros_perception' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_planning/lib:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/thisum/my_ws/build/moveit_ros_perception -- -j6 -l6
+[0.512s] Invoking command in '/home/thisum/my_ws/build/moveit_ros_perception': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_planning/lib:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/thisum/my_ws/build/moveit_ros_perception
+[0.523s] -- Install configuration: "Release"
+[0.524s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include
+[0.525s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit
+[0.526s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/lazy_free_space_updater
+[0.526s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/lazy_free_space_updater/lazy_free_space_updater.h
+[0.527s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include
+[0.527s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit
+[0.527s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/point_containment_filter
+[0.528s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/point_containment_filter/shape_mask.h
+[0.529s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include
+[0.529s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit
+[0.529s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/pointcloud_octomap_updater
+[0.529s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/pointcloud_octomap_updater/pointcloud_octomap_updater.h
+[0.530s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include
+[0.530s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit
+[0.530s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/transform_provider.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/gl_mesh.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/stereo_camera_model.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/sensor_model.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/mesh_filter_base.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/depth_self_filter_nodelet.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/gl_renderer.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/filter_job.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/mesh_filter/mesh_filter.h
+[0.531s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit_mesh_filter_export.h
+[0.534s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include
+[0.534s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit
+[0.535s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/depth_image_octomap_updater
+[0.535s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/depth_image_octomap_updater/depth_image_octomap_updater.h
+[0.536s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include
+[0.536s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit
+[0.536s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/semantic_world
+[0.537s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/include/moveit/semantic_world/semantic_world.h
+[0.539s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_depth_image_octomap_updater.so.2.5.5
+[0.539s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_depth_image_octomap_updater.so
+[0.542s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_depth_image_octomap_updater_core.so.2.5.5
+[0.542s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_depth_image_octomap_updater_core.so
+[0.544s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_lazy_free_space_updater.so.2.5.5
+[0.545s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_lazy_free_space_updater.so
+[0.547s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_mesh_filter.so.2.5.5
+[0.547s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_mesh_filter.so
+[0.549s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_point_containment_filter.so.2.5.5
+[0.550s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_point_containment_filter.so
+[0.551s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_pointcloud_octomap_updater.so.2.5.5
+[0.552s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_pointcloud_octomap_updater.so
+[0.554s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_pointcloud_octomap_updater_core.so.2.5.5
+[0.554s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_pointcloud_octomap_updater_core.so
+[0.557s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_semantic_world.so.2.5.5
+[0.557s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/lib/libmoveit_semantic_world.so
+[0.557s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/environment/library_path.sh
+[0.557s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/environment/library_path.dsv
+[0.557s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/pointcloud_octomap_updater_plugin_description.xml
+[0.557s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/depth_image_octomap_updater_plugin_description.xml
+[0.559s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/ament_index/resource_index/package_run_dependencies/moveit_ros_perception
+[0.560s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/ament_index/resource_index/parent_prefix_path/moveit_ros_perception
+[0.560s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/environment/ament_prefix_path.sh
+[0.560s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/environment/ament_prefix_path.dsv
+[0.560s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/environment/path.sh
+[0.560s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/environment/path.dsv
+[0.560s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/local_setup.bash
+[0.561s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/local_setup.sh
+[0.561s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/local_setup.zsh
+[0.561s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/local_setup.dsv
+[0.561s] -- Installing: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/package.dsv
+[0.562s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/ament_index/resource_index/packages/moveit_ros_perception
+[0.563s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/ament_index/resource_index/moveit_ros_occupancy_map_monitor__pluginlib__plugin/moveit_ros_perception
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/export_moveit_ros_perceptionExport.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/export_moveit_ros_perceptionExport-release.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/ConfigExtras.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/ament_cmake_export_targets-extras.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/moveit_ros_perceptionConfig.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/cmake/moveit_ros_perceptionConfig-version.cmake
+[0.569s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_perception/share/moveit_ros_perception/package.xml
+[0.574s] Invoked command in '/home/thisum/my_ws/build/moveit_ros_perception' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_planning:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_planning/lib:/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/thisum/my_ws/build/moveit_ros_perception

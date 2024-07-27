@@ -1,0 +1,16 @@
+/home/thisum/my_ws/install/gzb/share/gzb/launch/gazebo.launch.py
+/home/thisum/my_ws/install/gzb/share/ament_index/resource_index/package_run_dependencies/gzb
+/home/thisum/my_ws/install/gzb/share/ament_index/resource_index/parent_prefix_path/gzb
+/home/thisum/my_ws/install/gzb/share/gzb/environment/ament_prefix_path.sh
+/home/thisum/my_ws/install/gzb/share/gzb/environment/ament_prefix_path.dsv
+/home/thisum/my_ws/install/gzb/share/gzb/environment/path.sh
+/home/thisum/my_ws/install/gzb/share/gzb/environment/path.dsv
+/home/thisum/my_ws/install/gzb/share/gzb/local_setup.bash
+/home/thisum/my_ws/install/gzb/share/gzb/local_setup.sh
+/home/thisum/my_ws/install/gzb/share/gzb/local_setup.zsh
+/home/thisum/my_ws/install/gzb/share/gzb/local_setup.dsv
+/home/thisum/my_ws/install/gzb/share/gzb/package.dsv
+/home/thisum/my_ws/install/gzb/share/ament_index/resource_index/packages/gzb
+/home/thisum/my_ws/install/gzb/share/gzb/cmake/gzbConfig.cmake
+/home/thisum/my_ws/install/gzb/share/gzb/cmake/gzbConfig-version.cmake
+/home/thisum/my_ws/install/gzb/share/gzb/package.xml

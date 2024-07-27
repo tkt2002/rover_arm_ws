@@ -1,0 +1,51 @@
+[0.107s] Invoking command in '/home/thisum/my_ws/build/new_full_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/new_full_arm -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/new_full_arm
+[0.175s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.420s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.577s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.578s] -- Added test 'lint_cmake' to check CMake code style
+[0.578s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.581s] -- Added test 'xmllint' to check XML markup files
+[0.585s] -- Configuring done
+[0.635s] -- Generating done
+[0.637s] -- Build files have been written to: /home/thisum/my_ws/build/new_full_arm
+[0.642s] Invoked command in '/home/thisum/my_ws/build/new_full_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/new_full_arm -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/new_full_arm
+[0.643s] Invoking command in '/home/thisum/my_ws/build/new_full_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/new_full_arm -- -j6 -l6
+[0.777s] Invoked command in '/home/thisum/my_ws/build/new_full_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/new_full_arm -- -j6 -l6
+[0.990s] Invoking command in '/home/thisum/my_ws/build/new_full_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/new_full_arm
+[1.018s] -- Install configuration: "Release"
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch/display.launch.py
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch/gazebo.launch.py
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/urdf
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/urdf/new_full_arm.urdf
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/urdf/new_full_arm.csv
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/right_link3.STL
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/link1.STL
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/link4.STL
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/link5.STL
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/left_link2.STL
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/base_link.STL
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/link2.STL
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/middle_link1.STL
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/right_link1.STL
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/link3.STL
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/left_link3.STL
+[1.025s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/left_link1.STL
+[1.025s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/meshes/right_link2.STL
+[1.026s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/ament_index/resource_index/package_run_dependencies/new_full_arm
+[1.026s] -- Installing: /home/thisum/my_ws/install/new_full_arm/share/ament_index/resource_index/parent_prefix_path/new_full_arm
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/ament_prefix_path.sh
+[1.028s] -- Installing: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/ament_prefix_path.dsv
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/path.sh
+[1.028s] -- Installing: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/path.dsv
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.bash
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.sh
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.zsh
+[1.028s] -- Installing: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.dsv
+[1.028s] -- Installing: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/package.dsv
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/ament_index/resource_index/packages/new_full_arm
+[1.030s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/cmake/new_full_armConfig.cmake
+[1.030s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/cmake/new_full_armConfig-version.cmake
+[1.030s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/package.xml
+[1.033s] Invoked command in '/home/thisum/my_ws/build/new_full_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/new_full_arm

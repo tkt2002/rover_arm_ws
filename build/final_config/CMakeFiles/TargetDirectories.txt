@@ -1,0 +1,9 @@
+/home/thisum/my_ws/build/final_config/CMakeFiles/uninstall.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/final_config_uninstall.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/test.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/edit_cache.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/rebuild_cache.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/list_install_components.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/install.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/install/local.dir
+/home/thisum/my_ws/build/final_config/CMakeFiles/install/strip.dir

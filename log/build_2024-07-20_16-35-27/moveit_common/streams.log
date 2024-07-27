@@ -1,0 +1,34 @@
+[0.029s] Invoking command in '/home/thisum/my_ws/build/moveit_common': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/moveit2/moveit_common -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/moveit_common
+[0.072s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.438s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.606s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.767s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.769s] -- Added test 'lint_cmake' to check CMake code style
+[0.771s] -- Added test 'xmllint' to check XML markup files
+[0.774s] -- Configuring done
+[0.781s] -- Generating done
+[0.783s] -- Build files have been written to: /home/thisum/my_ws/build/moveit_common
+[0.793s] Invoked command in '/home/thisum/my_ws/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/moveit2/moveit_common -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/moveit_common
+[0.793s] Invoking command in '/home/thisum/my_ws/build/moveit_common': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/moveit_common -- -j6 -l6
+[0.882s] Invoked command in '/home/thisum/my_ws/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/moveit_common -- -j6 -l6
+[0.979s] Invoking command in '/home/thisum/my_ws/build/moveit_common': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/moveit_common
+[0.993s] -- Install configuration: "Release"
+[0.994s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/ament_index/resource_index/package_run_dependencies/moveit_common
+[0.994s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/ament_index/resource_index/parent_prefix_path/moveit_common
+[0.995s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/environment/ament_prefix_path.sh
+[0.996s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/environment/ament_prefix_path.dsv
+[0.996s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/environment/path.sh
+[0.996s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/environment/path.dsv
+[0.996s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/local_setup.bash
+[0.998s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/local_setup.sh
+[0.999s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/local_setup.zsh
+[0.999s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/local_setup.dsv
+[0.999s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/package.dsv
+[1.003s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/ament_index/resource_index/packages/moveit_common
+[1.015s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/cmake/moveit_common-extras.cmake
+[1.017s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/cmake/moveit_commonConfig.cmake
+[1.018s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/cmake/moveit_commonConfig-version.cmake
+[1.021s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/package.xml
+[1.022s] -- Up-to-date: /home/thisum/my_ws/install/moveit_common/share/moveit_common/cmake
+[1.022s] -- Installing: /home/thisum/my_ws/install/moveit_common/share/moveit_common/cmake/moveit_package.cmake
+[1.022s] Invoked command in '/home/thisum/my_ws/build/moveit_common' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/moveit_common

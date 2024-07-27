@@ -1,0 +1,9 @@
+/home/thisum/my_ws/build/gzb/CMakeFiles/uninstall.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/gzb_uninstall.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/test.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/edit_cache.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/rebuild_cache.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/list_install_components.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/install.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/install/local.dir
+/home/thisum/my_ws/build/gzb/CMakeFiles/install/strip.dir

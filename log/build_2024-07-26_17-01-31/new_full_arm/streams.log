@@ -1,0 +1,41 @@
+[0.043s] Invoking command in '/home/thisum/my_ws/build/new_full_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/new_full_arm -- -j6 -l6
+[0.215s] Invoked command in '/home/thisum/my_ws/build/new_full_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/new_full_arm -- -j6 -l6
+[0.387s] Invoking command in '/home/thisum/my_ws/build/new_full_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/new_full_arm
+[0.393s] -- Install configuration: "Release"
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch/empty_world.launch.py
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch/display.launch.py
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/launch/gazebo.launch.py
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/urdf
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/urdf/new_full_arm.urdf
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/urdf/new_full_arm.csv
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/right_link3.STL
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/link1.STL
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/link4.STL
+[0.394s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/link5.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/left_link2.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/base_link.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/link2.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/middle_link1.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/right_link1.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/link3.STL
+[0.395s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/left_link3.STL
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/left_link1.STL
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/models/right_link2.STL
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/ament_index/resource_index/package_run_dependencies/new_full_arm
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/ament_index/resource_index/parent_prefix_path/new_full_arm
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/ament_prefix_path.sh
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/ament_prefix_path.dsv
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/path.sh
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/environment/path.dsv
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.bash
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.sh
+[0.396s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.zsh
+[0.397s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/local_setup.dsv
+[0.397s] -- Installing: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/package.dsv
+[0.405s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/ament_index/resource_index/packages/new_full_arm
+[0.405s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/cmake/new_full_armConfig.cmake
+[0.405s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/cmake/new_full_armConfig-version.cmake
+[0.405s] -- Up-to-date: /home/thisum/my_ws/install/new_full_arm/share/new_full_arm/package.xml
+[0.409s] Invoked command in '/home/thisum/my_ws/build/new_full_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/thisum/my_ws/install/moveit_configs_utils:/home/thisum/my_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/new_full_arm

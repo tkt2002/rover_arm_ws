@@ -1,0 +1,4 @@
+source;share/gzb/local_setup.bash
+source;share/gzb/local_setup.dsv
+source;share/gzb/local_setup.sh
+source;share/gzb/local_setup.zsh

@@ -1,0 +1,6 @@
+Invoking command in '/home/thisum/my_ws/build/srdfdom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/srdfdom -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/srdfdom
+Invoked command in '/home/thisum/my_ws/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/thisum/my_ws/src/srdfdom -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/install/srdfdom
+Invoking command in '/home/thisum/my_ws/build/srdfdom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/srdfdom -- -j6 -l6
+Invoked command in '/home/thisum/my_ws/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/thisum/my_ws/build/srdfdom -- -j6 -l6
+Invoking command in '/home/thisum/my_ws/build/srdfdom': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/srdfdom
+Invoked command in '/home/thisum/my_ws/build/srdfdom' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/thisum/my_ws/build/srdfdom

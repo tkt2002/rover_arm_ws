@@ -1,0 +1,163 @@
+[0.053s] Invoking command in '/home/thisum/my_ws/build/moveit_ros_planning': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/thisum/my_ws/build/moveit_ros_planning -- -j6 -l6
+[0.184s] [35m[1mConsolidate compiler generated dependencies of target moveit_collision_plugin_loader[0m
+[0.184s] [35m[1mConsolidate compiler generated dependencies of target moveit_planning_pipeline[0m
+[0.186s] [35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[0.187s] [35m[1mConsolidate compiler generated dependencies of target moveit_rdf_loader[0m
+[0.189s] [35m[1mConsolidate compiler generated dependencies of target moveit_list_request_adapter_plugins[0m
+[0.209s] [  3%] Built target gmock_main
+[0.222s] [35m[1mConsolidate compiler generated dependencies of target moveit_default_planning_request_adapter_plugins[0m
+[0.229s] [ 11%] Built target moveit_list_request_adapter_plugins
+[0.229s] [ 11%] Built target moveit_rdf_loader
+[0.231s] [ 14%] Built target moveit_planning_pipeline
+[0.234s] [ 17%] Built target moveit_collision_plugin_loader
+[0.252s] [35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[0.283s] [ 22%] Built target gmock
+[0.283s] [35m[1mConsolidate compiler generated dependencies of target moveit_constraint_sampler_manager_loader[0m
+[0.283s] [35m[1mConsolidate compiler generated dependencies of target moveit_kinematics_plugin_loader[0m
+[0.322s] [ 25%] Built target moveit_kinematics_plugin_loader
+[0.325s] [ 29%] Built target moveit_constraint_sampler_manager_loader
+[0.328s] [ 46%] Built target moveit_default_planning_request_adapter_plugins
+[0.350s] [35m[1mConsolidate compiler generated dependencies of target moveit_robot_model_loader[0m
+[0.387s] [ 50%] Built target moveit_robot_model_loader
+[0.412s] [35m[1mConsolidate compiler generated dependencies of target moveit_print_planning_model_info[0m
+[0.424s] [35m[1mConsolidate compiler generated dependencies of target moveit_planning_scene_monitor[0m
+[0.452s] [ 53%] Built target moveit_print_planning_model_info
+[0.507s] [ 62%] Built target moveit_planning_scene_monitor
+[0.549s] [35m[1mConsolidate compiler generated dependencies of target moveit_print_planning_scene_info[0m
+[0.549s] [35m[1mConsolidate compiler generated dependencies of target moveit_display_random_state[0m
+[0.563s] [35m[1mConsolidate compiler generated dependencies of target current_state_monitor_tests[0m
+[0.564s] [35m[1mConsolidate compiler generated dependencies of target demo_scene[0m
+[0.578s] [35m[1mConsolidate compiler generated dependencies of target moveit_visualize_robot_collision_volume[0m
+[0.580s] [35m[1mConsolidate compiler generated dependencies of target trajectory_monitor_tests[0m
+[0.606s] [ 67%] Built target current_state_monitor_tests
+[0.606s] [ 69%] Built target moveit_display_random_state
+[0.619s] [ 72%] Built target demo_scene
+[0.627s] [ 75%] Built target moveit_print_planning_scene_info
+[0.633s] [ 79%] Built target moveit_visualize_robot_collision_volume
+[0.638s] [ 82%] Built target trajectory_monitor_tests
+[0.660s] [35m[1mConsolidate compiler generated dependencies of target moveit_publish_scene_from_text[0m
+[0.660s] [35m[1mConsolidate compiler generated dependencies of target moveit_evaluate_collision_checking_speed[0m
+[0.679s] [35m[1mConsolidate compiler generated dependencies of target moveit_trajectory_execution_manager[0m
+[0.704s] [ 85%] Built target moveit_publish_scene_from_text
+[0.710s] [ 88%] Built target moveit_evaluate_collision_checking_speed
+[0.735s] [ 91%] Built target moveit_trajectory_execution_manager
+[0.776s] [35m[1mConsolidate compiler generated dependencies of target moveit_plan_execution[0m
+[0.779s] [35m[1mConsolidate compiler generated dependencies of target moveit_cpp[0m
+[0.828s] [ 95%] Built target moveit_plan_execution
+[0.838s] [100%] Built target moveit_cpp
+[0.859s] Invoked command in '/home/thisum/my_ws/build/moveit_ros_planning' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/thisum/my_ws/build/moveit_ros_planning -- -j6 -l6
+[0.960s] Invoking command in '/home/thisum/my_ws/build/moveit_ros_planning': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/thisum/my_ws/build/moveit_ros_planning
+[0.972s] -- Install configuration: "Release"
+[0.973s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.973s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.973s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/rdf_loader
+[0.974s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/rdf_loader/rdf_loader.h
+[0.974s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/rdf_loader/synchronized_string_parameter.h
+[0.977s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/data
+[0.978s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/data/gonzo.srdf
+[0.979s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/data/kermit.srdf
+[0.979s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/data/robin.srdf.xacro
+[0.979s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/data/gonzo.urdf
+[0.979s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/data/kermit.urdf
+[0.979s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/launch
+[0.980s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/rdf_loader/test/launch/test_rdf_integration.test.py
+[0.981s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.981s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.981s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/collision_plugin_loader
+[0.981s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/collision_plugin_loader/collision_plugin_loader.h
+[0.982s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.982s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.983s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/kinematics_plugin_loader
+[0.983s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/kinematics_plugin_loader/kinematics_plugin_loader.h
+[0.983s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.983s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.984s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/robot_model_loader
+[0.984s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/robot_model_loader/robot_model_loader.h
+[0.984s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.984s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.985s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/constraint_sampler_manager_loader
+[0.985s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/constraint_sampler_manager_loader/constraint_sampler_manager_loader.h
+[0.986s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.986s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.986s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_pipeline
+[0.986s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_pipeline/planning_pipeline.h
+[0.986s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit_planning_pipeline_export.h
+[0.989s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_list_request_adapter_plugins
+[0.993s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/demo_scene
+[0.993s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[0.993s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[0.993s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_scene_monitor
+[0.994s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_scene_monitor/trajectory_monitor.h
+[0.994s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_scene_monitor/planning_scene_monitor.h
+[0.994s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_scene_monitor/trajectory_monitor_middleware_handle.hpp
+[0.994s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_scene_monitor/current_state_monitor.h
+[0.994s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/planning_scene_monitor/current_state_monitor_middleware_handle.hpp
+[0.994s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit_planning_scene_monitor_export.h
+[0.998s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_print_planning_model_info
+[1.000s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_print_planning_scene_info
+[1.003s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_display_random_state
+[1.005s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_visualize_robot_collision_volume
+[1.007s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_evaluate_collision_checking_speed
+[1.010s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/moveit_ros_planning/moveit_publish_scene_from_text
+[1.011s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[1.011s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[1.011s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/trajectory_execution_manager
+[1.011s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/trajectory_execution_manager/trajectory_execution_manager.h
+[1.011s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit_trajectory_execution_manager_export.h
+[1.012s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[1.012s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[1.012s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/plan_execution
+[1.012s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/plan_execution/plan_representation.h
+[1.012s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/plan_execution/plan_execution.h
+[1.013s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include
+[1.013s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit
+[1.013s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/moveit_cpp
+[1.014s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/moveit_cpp/planning_component.h
+[1.014s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/include/moveit/moveit_cpp/moveit_cpp.h
+[1.014s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_rdf_loader.so.2.5.5
+[1.015s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_rdf_loader.so
+[1.016s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_kinematics_plugin_loader.so.2.5.5
+[1.016s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_kinematics_plugin_loader.so
+[1.016s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_robot_model_loader.so.2.5.5
+[1.017s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_robot_model_loader.so
+[1.017s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_constraint_sampler_manager_loader.so.2.5.5
+[1.018s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_constraint_sampler_manager_loader.so
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_planning_pipeline.so.2.5.5
+[1.019s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_planning_pipeline.so
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_trajectory_execution_manager.so.2.5.5
+[1.020s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_trajectory_execution_manager.so
+[1.021s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_plan_execution.so.2.5.5
+[1.021s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_plan_execution.so
+[1.022s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_planning_scene_monitor.so.2.5.5
+[1.022s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_planning_scene_monitor.so
+[1.022s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_collision_plugin_loader.so.2.5.5
+[1.023s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_collision_plugin_loader.so
+[1.023s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_default_planning_request_adapter_plugins.so.2.5.5
+[1.023s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_default_planning_request_adapter_plugins.so
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_cpp.so.2.5.5
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/lib/libmoveit_cpp.so
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/environment/library_path.sh
+[1.024s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/environment/library_path.dsv
+[1.025s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/planning_request_adapters_plugin_description.xml
+[1.025s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/ament_index/resource_index/package_run_dependencies/moveit_ros_planning
+[1.026s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/ament_index/resource_index/parent_prefix_path/moveit_ros_planning
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/environment/ament_prefix_path.sh
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/environment/ament_prefix_path.dsv
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/environment/path.sh
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/environment/path.dsv
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/local_setup.bash
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/local_setup.sh
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/local_setup.zsh
+[1.027s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/local_setup.dsv
+[1.027s] -- Installing: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/package.dsv
+[1.028s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/ament_index/resource_index/packages/moveit_ros_planning
+[1.029s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/ament_index/resource_index/moveit_core__pluginlib__plugin/moveit_ros_planning
+[1.032s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/export_moveit_ros_planningExport.cmake
+[1.032s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/export_moveit_ros_planningExport-release.cmake
+[1.032s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/ConfigExtras.cmake
+[1.032s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/ament_cmake_export_targets-extras.cmake
+[1.032s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.033s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/moveit_ros_planningConfig.cmake
+[1.033s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/cmake/moveit_ros_planningConfig-version.cmake
+[1.033s] -- Up-to-date: /home/thisum/my_ws/install/moveit_ros_planning/share/moveit_ros_planning/package.xml
+[1.037s] Invoked command in '/home/thisum/my_ws/build/moveit_ros_planning' returned '0': AMENT_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor:/home/thisum/my_ws/install/moveit_core:/home/thisum/my_ws/install/moveit_resources_panda_moveit_config:/home/thisum/my_ws/install/srdfdom:/home/thisum/my_ws/install/moveit_resources_pr2_description:/home/thisum/my_ws/install/moveit_resources_panda_description:/home/thisum/my_ws/install/moveit_common:/opt/ros/humble LD_LIBRARY_PATH=/home/thisum/my_ws/install/moveit_ros_occupancy_map_monitor/lib:/home/thisum/my_ws/install/moveit_core/lib:/home/thisum/my_ws/install/srdfdom/lib:${LD_LIBRARY_PATH} PATH=/home/thisum/my_ws/install/moveit_core/bin:${PATH} PYTHONPATH=/home/thisum/my_ws/install/srdfdom/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/thisum/my_ws/build/moveit_ros_planning

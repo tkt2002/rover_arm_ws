@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: new_full_arm
+    relative_path: urdf/new_full_arm.urdf
+  srdf:
+    relative_path: config/new_full_arm.srdf
+  package_settings:
+    author_name: thisum
+    author_email: thisumkthalgaswatte@gmail.com
+    generated_timestamp: 1722093426

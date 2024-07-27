@@ -1,0 +1,33 @@
+[0.025s] Invoking command in '/home/thisum/my_ws/src/build/rviz_visual_tools': /usr/bin/cmake /home/thisum/my_ws/src/rviz_visual_tools -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/src/install/rviz_visual_tools
+[0.132s] -- The C compiler identification is GNU 11.4.0
+[0.216s] -- The CXX compiler identification is GNU 11.4.0
+[0.234s] -- Detecting C compiler ABI info
+[0.375s] -- Detecting C compiler ABI info - done
+[0.385s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.385s] -- Detecting C compile features
+[0.386s] -- Detecting C compile features - done
+[0.389s] -- Detecting CXX compiler ABI info
+[0.541s] -- Detecting CXX compiler ABI info - done
+[0.548s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.548s] -- Detecting CXX compile features
+[0.549s] -- Detecting CXX compile features - done
+[0.570s] [31mCMake Error at CMakeLists.txt:6 (find_package):
+[0.570s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.570s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.570s]   CMake did not find one.
+[0.570s] 
+[0.570s]   Could not find a package configuration file provided by "catkin" with any
+[0.570s]   of the following names:
+[0.570s] 
+[0.571s]     catkinConfig.cmake
+[0.571s]     catkin-config.cmake
+[0.571s] 
+[0.571s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.571s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.571s]   provides a separate development package or SDK, be sure it has been
+[0.571s]   installed.
+[0.571s] 
+[0.571s] [0m
+[0.571s] -- Configuring incomplete, errors occurred!
+[0.571s] See also "/home/thisum/my_ws/src/build/rviz_visual_tools/CMakeFiles/CMakeOutput.log".
+[0.576s] Invoked command in '/home/thisum/my_ws/src/build/rviz_visual_tools' returned '1': /usr/bin/cmake /home/thisum/my_ws/src/rviz_visual_tools -DCMAKE_BUILD_TYPE=Release -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/thisum/my_ws/src/install/rviz_visual_tools

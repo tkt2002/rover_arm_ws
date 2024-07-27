@@ -1,0 +1,9 @@
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/uninstall.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/arm_config_uninstall.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/test.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/edit_cache.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/rebuild_cache.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/list_install_components.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/install.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/install/local.dir
+/home/thisum/my_ws/src/build/arm_config/CMakeFiles/install/strip.dir

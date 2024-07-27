@@ -1,0 +1,6 @@
+[31mCMake Error at python/CMakeLists.txt:24 (add_subdirectory):
+  add_subdirectory given source
+  "/home/thisum/my_ws/src/moveit_task_constructor/core/python/core/python/pybind11"
+  which is not an existing directory.
+
+[0m
